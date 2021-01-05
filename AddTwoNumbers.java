@@ -9,6 +9,8 @@
  * }
  *
  * Problem: https://leetcode.com/problems/add-two-numbers/
+ * My solution: Runtime: 2 ms, faster than 78.75% of Java online submissions for Add Two Numbers. Memory Usage: 39.5 MB, less than 41.39% of Java online submissions for Add Two Numbers.
+ * 
  */
  
 class Solution {
